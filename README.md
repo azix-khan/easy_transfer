@@ -1,8 +1,12 @@
 # easy_transfer
 
-A new Flutter project.
+A new UI in Flutter.
 
 ## Getting Started
+
+<div align="center">
+  <img src="https://github.com/azix-khan/easy_transfer/assets/138978130/c42922a0-05dc-4305-ad96-5b7e59794a8b" height="700" alt="Screenshot 1">
+</div>
 
 This project is a starting point for a Flutter application.
 
